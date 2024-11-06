@@ -28,6 +28,8 @@ class Redis {
 	}
 
 	public function delete($key) {
-		$this->cache->del(CACHE_PREFIX . $key);
+		foreach ($this->cache->keys($key) as $value) {
+			$this->cache->del($value);
+		}
 	}
 }
