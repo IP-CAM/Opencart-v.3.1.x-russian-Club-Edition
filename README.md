@@ -1,4 +1,4 @@
-# OpenCart 3.x ce Club edition
+# OpenCart 3.x ce Club editions
 
 ## Описание
 
