@@ -1,4 +1,4 @@
-# OpenCart 3.0.4.0-ce.1.5 Club edition
+# OpenCart 3.0.4.0-ce Club edition
 
 ## Описание
 
